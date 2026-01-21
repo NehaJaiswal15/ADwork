@@ -34,6 +34,6 @@ The goal of this lab is to understand and implement core ML algorithms step-by-s
 
 ### 👩‍💻 Author
 
-Name: Neha Jaiswal
-Course: ADLAB
-Purpose: Weekly Lab Experiment Submissions
+- Name: Neha Jaiswal
+- Course: ADLAB
+- Purpose: Weekly Lab Experiment Submissions
